@@ -10,7 +10,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "CRISS-AI-1IwDSZDB#hJnWb4-KBz9t_aJYgD40DJKtCsUDWFNPXvyX3xlbvLU",
       "required": true,
       "value": ""
     },  
@@ -94,7 +94,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "255766263739"
+      "value": "51960285930"
 
     }, 
 
