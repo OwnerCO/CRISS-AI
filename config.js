@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "CRISS-AI-O45UCTaC#5jfe8JLZHwng9E3TGU62RikjAyllu--Y6jrIwVcsY4Y",
+SESSION_ID: process.env.SESSION_ID || "CRISS-AI-1IwDSZDB#hJnWb4-KBz9t_aJYgD40DJKtCsUDWFNPXvyX3xlbvLU",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -37,7 +37,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "255766263739",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "51960285930",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "ᴄʀɪss ᴠᴇᴠᴏ",
 // add bot owner name
@@ -71,7 +71,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "255766263739",
+DEV: process.env.DEV || "51960286930",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
